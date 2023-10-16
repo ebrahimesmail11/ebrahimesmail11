@@ -27,15 +27,13 @@
 ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP&logoColor=563D7C)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![Api](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=Api&logoColor=1572B6)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android Studio-05122A?style=flat&logo=react)
 ![c++](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=c++&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Data Structure](https://img.shields.io/badge/-Data Structure-05122A?style=flat&logo=sass)&nbsp;
+![Andriod Studio](https://img.shields.io/badge/-Andoid%20Studio-05122A?style=flat&logo=Android-studio&logoColor=007ACC)&nbsp;
+![DataStructure](https://img.shields.io/badge/-DataStructure-05122A?style=flat&logo=DataStructure)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAbuelazm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"  height="150" alt="languages graph"  />
